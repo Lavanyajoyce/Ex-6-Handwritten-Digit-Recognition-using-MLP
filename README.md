@@ -1,0 +1,1 @@
+# Ex-6-Handwritten-Digit-Recognition-using-MLP
